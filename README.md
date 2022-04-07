@@ -1,5 +1,5 @@
 <!-- TITLE -->
-<h1 align="center">Music Search App </h1>
+<h1 align="center">Music Search App</h1>
 
 - [About the Project](#about-the-project)  
 - [Visual](#visual)
@@ -16,6 +16,14 @@ Using:
 - SwiftUI
 - Combine
 - MVVM
+
+To do:
+- Infinite scrolling for search
+- Detailed view for the songs
+- Add favorites feature, correcting the "not reloading view" bug
+- Use CoreData to persist favorites
+- API Error Handling
+- Add XCTests
 
 ## Visual:
 ### Light Mode:
