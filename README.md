@@ -20,15 +20,15 @@ Using:
 ## Visual:
 ### Light Mode:
 <a id="light-mode"></a>
-![](images/AppHomeScreen.png)
-![](images/FavoriteScreen.png)
-![](images/SearchScreen.png)
-![](images/SearchWithFavorites.png)
+![](Images/AppHomeScreen.png)
+![](Images/FavoriteScreen.png)
+![](Images/SearchScreen.png)
+![](Images/SearchWithFavorites.png)
 
 
 ### Dark Mode:
 <a id="dark-mode"></a>
-![](images/DarkMode_AppHomeScreen.png)
-![](images/DarkMode_FavoriteScreen.png)
-![](images/DarkMode_SearchScreen.png)
-![](images/DarkMode_SearchWithFavorites.png)
+![](Images/DarkMode_AppHomeScreen.png)
+![](Images/DarkMode_FavoriteScreen.png)
+![](Images/DarkMode_SearchScreen.png)
+![](Images/DarkMode_SearchWithFavorites.png)
