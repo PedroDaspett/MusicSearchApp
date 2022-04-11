@@ -28,15 +28,15 @@ To do:
 ## Visual:
 ### Light Mode:
 <a id="light-mode"></a>
-![](Images/AppHomeScreen.png)
-![](Images/FavoriteScreen.png)
-![](Images/SearchScreen.png)
-![](Images/SearchWithFavorites.png)
+<img src="Images/AppHomeScreen.png" alt="AppHomeScreen" width="200"/>
+<img src="Images/FavoriteScreen.png" alt="FavoriteScreen" width="200"/>
+<img src="Images/SearchScreen.png" alt="SearchScreen" width="200"/>
+<img src="Images/SearchWithFavorites.png" alt="SearchWithFavorites" width="200"/>
 
 
 ### Dark Mode:
 <a id="dark-mode"></a>
-![](Images/DarkMode_AppHomeScreen.png)
-![](Images/DarkMode_FavoriteScreen.png)
-![](Images/DarkMode_SearchScreen.png)
-![](Images/DarkMode_SearchWithFavorites.png)
+<img src="Images/DarkMode_AppHomeScreen.png" alt="DarkMode_AppHomeScreen" width="200"/>
+<img src="Images/DarkMode_FavoriteScreen.png" alt="DarkMode_FavoriteScreen" width="200"/>
+<img src="Images/DarkMode_SearchScreen.png" alt="DarkMode_SearchScreen" width="200"/>
+<img src="Images/DarkMode_SearchWithFavorites.png" alt="DarkMode_SearchWithFavorites" width="200"/>
