@@ -114,10 +114,10 @@
 		3AE4611D27FC91B70005D685 /* Music Search App */ = {
 			isa = PBXGroup;
 			children = (
-				3AE4611E27FC91B70005D685 /* Music_Search_AppApp.swift */,
-				3AE4612227FC91B80005D685 /* Assets.xcassets */,
 				3AE4615A27FDD7310005D685 /* API */,
+				3AE4612227FC91B80005D685 /* Assets.xcassets */,
 				3AE4614827FC97DD0005D685 /* Models */,
+				3AE4611E27FC91B70005D685 /* Music_Search_AppApp.swift */,
 				3AE4612427FC91B80005D685 /* Preview Content */,
 				3AE4614A27FC97EC0005D685 /* ViewModels */,
 				3AE4614927FC97E60005D685 /* Views */,
@@ -163,11 +163,11 @@
 		3AE4614927FC97E60005D685 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				3AE4615127FD50DE0005D685 /* UIKit */,
-				3AE4612027FC91B70005D685 /* ContentView.swift */,
-				3AE4615827FDD0230005D685 /* SongView.swift */,
 				3AE4615D27FDDBA90005D685 /* ArtworkView.swift */,
+				3AE4612027FC91B70005D685 /* ContentView.swift */,
 				3AE4615F27FDDC210005D685 /* EmptyStateView.swift */,
+				3AE4615827FDD0230005D685 /* SongView.swift */,
+				3AE4615127FD50DE0005D685 /* UIKit */,
 			);
 			path = Views;
 			sourceTree = "<group>";
